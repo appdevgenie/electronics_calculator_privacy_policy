@@ -1,4 +1,4 @@
-# Privacy Policy for Electronics Calculator Pro
+# Privacy Policy for Electronics Calculator
 ## PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS
 ### This privacy policy governs your use of the software application [ELECTRONICS CALCULATOR] (“Application”) for mobile devices that was created by [APPDEVGENIE]. The Application is [BASIC ELECTRONICS CALCULATOR CONTAINING CALCULATORS, CONVERTERS AND REFERENCE GUIDES FOR STUDENTS, HOBBIESTS AND EVERYONE INTERESTED IN ELECTRONICS )] 
 
